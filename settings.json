@@ -1,0 +1,10 @@
+{
+    "info": {
+        "title": "CppScrapper",
+		"version": "1",
+		"author": "rept0id",
+		"email": "rad@simplecode.gr",
+		"git": "https://github.com/rept0id/CppScrapper"
+    },
+    "folder_output" : "$HOME/Documents/CppScrapper"
+}
